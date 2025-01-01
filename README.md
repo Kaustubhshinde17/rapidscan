@@ -5,6 +5,11 @@
 [![GitHub license](https://img.shields.io/github/license/skavngr/rapidscan.svg?color=%230000ff)](https://github.com/skavngr/rapidscan/blob/master/LICENSE)
 
 # :red_square: RapidScan v1.2 - _The Multi-Tool Web Vulnerability Scanner_
+**COMPANEY**: CODTECH IT SOLUTIONS
+**NAME**: Kaustubh Dattatray Shinde
+**INTERN ID**: CT08IFP
+**BATCH DURATION**: January 10th, 2025 to February 10th, 2025.
+**MENTOR NAME**: NEELA SANTOSH
 _**RapidScan has been ported to Python3 i.e. v1.2**. The Python2.7 codebase is available on v1.1 releases section. Download and use it if you still haven't upgraded to Python 3. Kindly note that the v1.1 (Python2.7) will not be enhanced further._
 
 ## Evolution:
